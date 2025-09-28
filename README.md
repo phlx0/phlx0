@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱I’m currently stil learning
+🌱I’m still learning and this account will keep track of the progress
 
 
 # 💻 Tech Stack:
