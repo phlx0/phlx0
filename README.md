@@ -93,21 +93,3 @@ I enjoy building things, breaking them, and understanding how they work under th
 
 ![Jest](https://img.shields.io/badge/jest-C21325?style=for-the-badge\&logo=jest\&logoColor=white)
 ![Pytest](https://img.shields.io/badge/pytest-ffffff?style=for-the-badge\&logo=pytest\&logoColor=2f9fe3)
-
----
-
-## 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=phlx0\&theme=dark\&hide_border=false\&count_private=true)
-![](https://nirzak-streak-stats.vercel.app/?user=phlx0\&theme=dark\&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=phlx0\&theme=dark\&layout=compact\&hide_border=false)
-
----
-
-## ✍️ Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal\&theme=dark)
-
----
-
-![Visitor Count](https://visitcount.itsvg.in/api?id=phlx0\&icon=0\&color=0)
