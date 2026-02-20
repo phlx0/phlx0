@@ -93,6 +93,3 @@ I enjoy building things, breaking them, and understanding how they work under th
 
 ![Jest](https://img.shields.io/badge/jest-C21325?style=for-the-badge\&logo=jest\&logoColor=white)
 ![Pytest](https://img.shields.io/badge/pytest-ffffff?style=for-the-badge\&logo=pytest\&logoColor=2f9fe3)
-
----
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phlx0)
