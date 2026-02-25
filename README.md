@@ -43,6 +43,7 @@ I enjoy building things, breaking them, and understanding how they work under th
 ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
+![Craft CMS Badge](https://img.shields.io/badge/Craft%20CMS-E5422B?logo=craftcms&logoColor=fff&style=for-the-badge)
 
 ---
 
