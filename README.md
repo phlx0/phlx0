@@ -11,7 +11,6 @@
 ### `$ whoami`
 
 ```
-developer in progress.
 drawn to the terminal, obsessed with clean architecture,
 slowly convincing myself rust is worth the pain.
 
