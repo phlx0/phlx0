@@ -77,36 +77,6 @@ main loop: build → break → understand → refactor → repeat
 ![zsh](https://img.shields.io/badge/zsh-1a1a2e?style=for-the-badge&logo=zsh&logoColor=9D4EDD)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-1a1a2e?style=for-the-badge&logo=raspberrypi&logoColor=9D4EDD)
 
----
-
-### `$ ls ./pinned/`
-
-<table width="100%">
-<tr>
-<td width="50%">
-
-[![vault-tree](https://github-readme-stats-fast.vercel.app/api/pin/?username=phlx0&repo=vault-tree&hide_border=true&bg_color=0d1117&title_color=9D4EDD&icon_color=9D4EDD&text_color=c9d1d9)](https://github.com/phlx0/vault-tree)
-
-</td>
-<td width="50%">
-
-[![CryptoView](https://github-readme-stats-fast.vercel.app/api/pin/?username=phlx0&repo=CryptoView&hide_border=true&bg_color=0d1117&title_color=9D4EDD&icon_color=9D4EDD&text_color=c9d1d9)](https://github.com/phlx0/CryptoView)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-[![templit](https://github-readme-stats-fast.vercel.app/api/pin/?username=phlx0&repo=templit&hide_border=true&bg_color=0d1117&title_color=9D4EDD&icon_color=9D4EDD&text_color=c9d1d9)](https://github.com/phlx0/templit)
-
-</td>
-<td width="50%">
-
-[![postmortem](https://github-readme-stats-fast.vercel.app/api/pin/?username=phlx0&repo=postmortem&hide_border=true&bg_color=0d1117&title_color=9D4EDD&icon_color=9D4EDD&text_color=c9d1d9)](https://github.com/phlx0/postmortem)
-
-</td>
-</tr>
-</table>
 
 ---
 
