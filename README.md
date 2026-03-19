@@ -30,6 +30,8 @@ main loop: build → break → understand → refactor → repeat
 ![Java](https://img.shields.io/badge/Java-1a1a2e?style=for-the-badge&logo=openjdk&logoColor=9D4EDD)
 ![PHP](https://img.shields.io/badge/PHP-1a1a2e?style=for-the-badge&logo=php&logoColor=9D4EDD)
 ![Bash](https://img.shields.io/badge/Bash-1a1a2e?style=for-the-badge&logo=gnubash&logoColor=9D4EDD)
+![Go](https://img.shields.io/badge/Go-1a1a2e?style=for-the-badge&logo=go&logoColor=9D4EDD)
+![Lua](https://img.shields.io/badge/Lua-1a1a2e?style=for-the-badge&logo=lua&logoColor=9D4EDD)
 
 **Python Ecosystem**
 
