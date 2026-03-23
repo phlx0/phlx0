@@ -8,17 +8,6 @@
 
 ---
 
-### `$ whoami`
-
-```
-drawn to the terminal, obsessed with clean architecture,
-slowly convincing myself rust is worth the pain.
-
-main loop: build → break → understand → refactor → repeat
-```
-
----
-
 ### `$ cat stack.json`
 
 **Languages**
