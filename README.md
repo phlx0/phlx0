@@ -11,6 +11,7 @@
 ### `$ cat stack.json`
 
 **Languages**
+
 ![Python](https://img.shields.io/badge/Python-1a1a2e?style=for-the-badge&logo=python&logoColor=9D4EDD)
 ![TypeScript](https://img.shields.io/badge/TypeScript-1a1a2e?style=for-the-badge&logo=typescript&logoColor=9D4EDD)
 ![JavaScript](https://img.shields.io/badge/JavaScript-1a1a2e?style=for-the-badge&logo=javascript&logoColor=9D4EDD)
@@ -22,6 +23,7 @@
 ![Lua](https://img.shields.io/badge/Lua-1a1a2e?style=for-the-badge&logo=lua&logoColor=9D4EDD)
 
 **Python Ecosystem**
+
 ![FastAPI](https://img.shields.io/badge/FastAPI-1a1a2e?style=for-the-badge&logo=fastapi&logoColor=9D4EDD)
 ![Flask](https://img.shields.io/badge/Flask-1a1a2e?style=for-the-badge&logo=flask&logoColor=9D4EDD)
 ![click](https://img.shields.io/badge/click-1a1a2e?style=for-the-badge&logo=python&logoColor=9D4EDD)
@@ -31,6 +33,7 @@
 ![pytest](https://img.shields.io/badge/pytest-1a1a2e?style=for-the-badge&logo=pytest&logoColor=9D4EDD)
 
 **Frontend**
+
 ![HTML](https://img.shields.io/badge/HTML-1a1a2e?style=for-the-badge&logo=html5&logoColor=9D4EDD)
 ![CSS](https://img.shields.io/badge/CSS-1a1a2e?style=for-the-badge&logo=css3&logoColor=9D4EDD)
 ![Tailwind](https://img.shields.io/badge/Tailwind-1a1a2e?style=for-the-badge&logo=tailwindcss&logoColor=9D4EDD)
@@ -39,6 +42,7 @@
 ![Vite](https://img.shields.io/badge/Vite-1a1a2e?style=for-the-badge&logo=vite&logoColor=9D4EDD)
 
 **Backend & Data**
+
 ![Node.js](https://img.shields.io/badge/Node.js-1a1a2e?style=for-the-badge&logo=nodedotjs&logoColor=9D4EDD)
 ![Express](https://img.shields.io/badge/Express-1a1a2e?style=for-the-badge&logo=express&logoColor=9D4EDD)
 ![MongoDB](https://img.shields.io/badge/MongoDB-1a1a2e?style=for-the-badge&logo=mongodb&logoColor=9D4EDD)
@@ -47,6 +51,7 @@
 ![Redis](https://img.shields.io/badge/Redis-1a1a2e?style=for-the-badge&logo=redis&logoColor=9D4EDD)
 
 **Infra & Ops**
+
 ![Docker](https://img.shields.io/badge/Docker-1a1a2e?style=for-the-badge&logo=docker&logoColor=9D4EDD)
 ![Nginx](https://img.shields.io/badge/Nginx-1a1a2e?style=for-the-badge&logo=nginx&logoColor=9D4EDD)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-1a1a2e?style=for-the-badge&logo=cloudflare&logoColor=9D4EDD)
@@ -56,6 +61,7 @@
 ![GitHub](https://img.shields.io/badge/GitHub-1a1a2e?style=for-the-badge&logo=github&logoColor=9D4EDD)
 
 **Environment**
+
 ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1a1a2e?style=for-the-badge&logo=archlinux&logoColor=9D4EDD)
 ![Neovim](https://img.shields.io/badge/Neovim-1a1a2e?style=for-the-badge&logo=neovim&logoColor=9D4EDD)
 ![tmux](https://img.shields.io/badge/tmux-1a1a2e?style=for-the-badge&logo=tmux&logoColor=9D4EDD)
