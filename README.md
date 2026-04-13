@@ -1,6 +1,3 @@
-
----
-
 ### `$ cat stack.json`
 
 **Languages**
