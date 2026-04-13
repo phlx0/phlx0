@@ -1,4 +1,4 @@
-#`$ echo "Hey there!"`
+# `$ echo "Hey there!"`
 
 ---
 
