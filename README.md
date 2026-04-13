@@ -1,7 +1,5 @@
 # `$ echo "Hey there!"`
 
----
-
 ### `$ cat stack.json`
 
 **Languages**
