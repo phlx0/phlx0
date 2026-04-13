@@ -1,10 +1,3 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=140&section=header&text=phlx0&fontColor=ffffff&fontSize=52&fontAlignY=42&desc=cli+%7C+webdev+%7C+terminal-first&descAlignY=62&descSize=15&animation=fadeIn" width="100%"/>
-
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=13&duration=3500&pause=1200&color=9D4EDD&center=true&vCenter=true&width=560&lines=building+CLI+tools+nobody+asked+for+but+everyone+needs;self-hosting+everything%2C+breaking+things%2C+learning+why;somewhere+between+%22works+on+my+machine%22+and+prod)](https://github.com/phlx0)
-
-</div>
 
 ---
 
