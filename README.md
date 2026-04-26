@@ -12,6 +12,7 @@
 ![Go](https://img.shields.io/badge/Go-1a1a2e?style=for-the-badge&logo=go&logoColor=9D4EDD)
 ![Lua](https://img.shields.io/badge/Lua-1a1a2e?style=for-the-badge&logo=lua&logoColor=9D4EDD)
 ![C](https://img.shields.io/badge/C-1a1a2e?style=for-the-badge&logo=C&logoColor=9D4EDD)
+![Make](https://img.shields.io/badge/Make-1a1a2e?style=for-the-badge&logo=gnu&logoColor=9D4EDD)
 
 **Python Ecosystem**
 
@@ -22,6 +23,7 @@
 ![rich](https://img.shields.io/badge/rich-1a1a2e?style=for-the-badge&logo=python&logoColor=9D4EDD)
 ![pydantic](https://img.shields.io/badge/pydantic-1a1a2e?style=for-the-badge&logo=python&logoColor=9D4EDD)
 ![pytest](https://img.shields.io/badge/pytest-1a1a2e?style=for-the-badge&logo=pytest&logoColor=9D4EDD)
+![Django](https://img.shields.io/badge/Django-1a1a2e?style=for-the-badge&logo=django&logoColor=9D4EDD)
 
 **Frontend**
 
@@ -31,6 +33,11 @@
 ![React](https://img.shields.io/badge/React-1a1a2e?style=for-the-badge&logo=react&logoColor=9D4EDD)
 ![Next.js](https://img.shields.io/badge/Next.js-1a1a2e?style=for-the-badge&logo=nextdotjs&logoColor=9D4EDD)
 ![Vite](https://img.shields.io/badge/Vite-1a1a2e?style=for-the-badge&logo=vite&logoColor=9D4EDD)
+![Vue.js](https://img.shields.io/badge/Vue.js-1a1a2e?style=for-the-badge&logo=vuedotjs&logoColor=9D4EDD)
+![Astro](https://img.shields.io/badge/Astro-1a1a2e?style=for-the-badge&logo=astro&logoColor=9D4EDD)
+![Electron](https://img.shields.io/badge/Electron-1a1a2e?style=for-the-badge&logo=electron&logoColor=9D4EDD)
+![Jest](https://img.shields.io/badge/Jest-1a1a2e?style=for-the-badge&logo=jest&logoColor=9D4EDD)
+![esbuild](https://img.shields.io/badge/esbuild-1a1a2e?style=for-the-badge&logo=esbuild&logoColor=9D4EDD)
 
 **Backend & Data**
 
@@ -40,6 +47,8 @@
 ![MySQL](https://img.shields.io/badge/MySQL-1a1a2e?style=for-the-badge&logo=mysql&logoColor=9D4EDD)
 ![SQLite](https://img.shields.io/badge/SQLite-1a1a2e?style=for-the-badge&logo=sqlite&logoColor=9D4EDD)
 ![Redis](https://img.shields.io/badge/Redis-1a1a2e?style=for-the-badge&logo=redis&logoColor=9D4EDD)
+![SQL](https://img.shields.io/badge/SQL-1a1a2e?style=for-the-badge&logo=postgresql&logoColor=9D4EDD)
+![Supabase](https://img.shields.io/badge/Supabase-1a1a2e?style=for-the-badge&logo=supabase&logoColor=9D4EDD)
 
 **Infra & Ops**
 
@@ -51,7 +60,10 @@
 ![Vercel](https://img.shields.io/badge/Vercel-1a1a2e?style=for-the-badge&logo=vercel&logoColor=9D4EDD)
 ![Git](https://img.shields.io/badge/Git-1a1a2e?style=for-the-badge&logo=git&logoColor=9D4EDD)
 ![GitHub](https://img.shields.io/badge/GitHub-1a1a2e?style=for-the-badge&logo=github&logoColor=9D4EDD)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-1a1a2e?style=for-the-badge&logo=githubactions&logoColor=9D4EDD)
 ![Claude](https://img.shields.io/badge/Claude-1a1a2e?style=for-the-badge&logo=claude&logoColor=9D4EDD)
+![OpenAI](https://img.shields.io/badge/OpenAI-1a1a2e?style=for-the-badge&logo=openai&logoColor=9D4EDD)
+![Ollama](https://img.shields.io/badge/Ollama-1a1a2e?style=for-the-badge&logo=ollama&logoColor=9D4EDD)
 
 **Environment**
 
@@ -59,6 +71,8 @@
 ![Neovim](https://img.shields.io/badge/Neovim-1a1a2e?style=for-the-badge&logo=neovim&logoColor=9D4EDD)
 ![zsh](https://img.shields.io/badge/zsh-1a1a2e?style=for-the-badge&logo=zsh&logoColor=9D4EDD)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-1a1a2e?style=for-the-badge&logo=raspberrypi&logoColor=9D4EDD)
+![Linux](https://img.shields.io/badge/Linux-1a1a2e?style=for-the-badge&logo=linux&logoColor=9D4EDD)
+![Homebrew](https://img.shields.io/badge/Homebrew-1a1a2e?style=for-the-badge&logo=homebrew&logoColor=9D4EDD)
 
 
 ---
