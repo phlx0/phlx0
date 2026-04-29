@@ -1,4 +1,4 @@
-> Self-taught developer since 2019, starting with small batch scripts and moving to Python in 2021. I build minimal, terminal-focused tools with a focus on simplicity and local-first workflows.
+> Self-taught developer since 2019, starting with small batch scripts and moved to Python in 2021. I build minimal, terminal-focused tools with a focus on simplicity and local-first workflows.
 
 ### `$ cat stack.json`
 
