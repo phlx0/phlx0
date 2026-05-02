@@ -57,6 +57,8 @@
 ![Docker](https://img.shields.io/badge/Docker-1a1a2e?style=for-the-badge&logo=docker&logoColor=9D4EDD)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-1a1a2e?style=for-the-badge&logo=kubernetes&logoColor=9D4EDD)
 ![Nginx](https://img.shields.io/badge/Nginx-1a1a2e?style=for-the-badge&logo=nginx&logoColor=9D4EDD)
+![Apache](https://img.shields.io/badge/Apache-1a1a2e?style=for-the-badge&logo=apache&logoColor=9D4EDD)
+![Caddy](https://img.shields.io/badge/Caddy-1a1a2e?style=for-the-badge&logo=caddy&logoColor=9D4EDD)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-1a1a2e?style=for-the-badge&logo=cloudflare&logoColor=9D4EDD)
 ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-1a1a2e?style=for-the-badge&logo=digitalocean&logoColor=9D4EDD)
 ![Vercel](https://img.shields.io/badge/Vercel-1a1a2e?style=for-the-badge&logo=vercel&logoColor=9D4EDD)
