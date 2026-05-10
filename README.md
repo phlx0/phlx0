@@ -1,3 +1,5 @@
+> fullstack webdev · CLI tools · self-hosting · UNIX · always learning, always building · big fan of OSS
+
 ### `$ cat stack.json`
 
 **Languages**
