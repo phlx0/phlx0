@@ -67,11 +67,12 @@
 
 **Environment**
 
+![Linux](https://img.shields.io/badge/Linux-1a1a2e?style=for-the-badge&logo=linux&logoColor=9D4EDD)
 ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1a1a2e?style=for-the-badge&logo=archlinux&logoColor=9D4EDD)
+![MacOS](https://img.shields.io/badge/MacOS-1a1a2e?style=for-the-badge&logo=macos&logoColor=9D4EDD)
 ![Neovim](https://img.shields.io/badge/Neovim-1a1a2e?style=for-the-badge&logo=neovim&logoColor=9D4EDD)
 ![zsh](https://img.shields.io/badge/zsh-1a1a2e?style=for-the-badge&logo=zsh&logoColor=9D4EDD)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-1a1a2e?style=for-the-badge&logo=raspberrypi&logoColor=9D4EDD)
-![Linux](https://img.shields.io/badge/Linux-1a1a2e?style=for-the-badge&logo=linux&logoColor=9D4EDD)
 ![Homebrew](https://img.shields.io/badge/Homebrew-1a1a2e?style=for-the-badge&logo=homebrew&logoColor=9D4EDD)
 
 
