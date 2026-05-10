@@ -83,12 +83,12 @@
 <tr>
 <td width="50%">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=phlx0&hide_border=true&background=0D1117&stroke=6e40c9&ring=9D4EDD&fire=ff6b6b&currStreakLabel=9D4EDD&sideLabels=c9d1d9&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff)](https://git.io/streak-stats)
+[![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=phlx0&show_icons=true&hide_border=true&bg_color=0d1117&title_color=9D4EDD&icon_color=9D4EDD&text_color=c9d1d9&rank_icon=github&include_all_commits=true)](https://github.com/phlx0)
 
 </td>
 <td width="50%">
-  
-[![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=phlx0&show_icons=true&hide_border=true&bg_color=0d1117&title_color=9D4EDD&icon_color=9D4EDD&text_color=c9d1d9&rank_icon=github&include_all_commits=true)](https://github.com/phlx0)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=phlx0&hide_border=true&background=0D1117&stroke=6e40c9&ring=9D4EDD&fire=ff6b6b&currStreakLabel=9D4EDD&sideLabels=c9d1d9&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff)](https://git.io/streak-stats)
 
 </td>
 </tr>
