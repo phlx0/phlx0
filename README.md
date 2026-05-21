@@ -1,4 +1,4 @@
-> fullstack webdev · CLI tools · self-hosting · UNIX · always learning, always building · big fan of OSS
+> fullstack dev · CLI tools · self-hosting · UNIX · always learning, always building · big fan of OSS
 
 ### `$ cat stack.json`
 
