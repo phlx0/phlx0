@@ -63,19 +63,33 @@
 ![Git](https://img.shields.io/badge/Git-1a1a2e?style=for-the-badge&logo=git&logoColor=9D4EDD)
 ![GitHub](https://img.shields.io/badge/GitHub-1a1a2e?style=for-the-badge&logo=github&logoColor=9D4EDD)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-1a1a2e?style=for-the-badge&logo=githubactions&logoColor=9D4EDD)
+![WireGuard](https://img.shields.io/badge/WireGuard-1a1a2e?style=for-the-badge&logo=wireguard&logoColor=9D4EDD)
+![Let's Encrypt](https://img.shields.io/badge/Let's_Encrypt-1a1a2e?style=for-the-badge&logo=letsencrypt&logoColor=9D4EDD)
+
+**AI / LLM**
+
 ![Claude](https://img.shields.io/badge/Claude-1a1a2e?style=for-the-badge&logo=claude&logoColor=9D4EDD)
 ![OpenAI](https://img.shields.io/badge/OpenAI-1a1a2e?style=for-the-badge&logo=openai&logoColor=9D4EDD)
 ![Ollama](https://img.shields.io/badge/Ollama-1a1a2e?style=for-the-badge&logo=ollama&logoColor=9D4EDD)
 
+**Security**
+
+![Nmap](https://img.shields.io/badge/nmap-1a1a2e?style=for-the-badge&logoColor=9D4EDD)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-1a1a2e?style=for-the-badge&logo=kalilinux&logoColor=9D4EDD)
+![Ghidra](https://img.shields.io/badge/ghidra-1a1a2e?style=for-the-badge&logoColor=9D4EDD)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-1a1a2e?style=for-the-badge&logo=burpsuite&logoColor=9D4EDD)
+![Metasploit](https://img.shields.io/badge/Metasploit-1a1a2e?style=for-the-badge&logo=metasploit&logoColor=9D4EDD)
+![Wireshark](https://img.shields.io/badge/Wireshark-1a1a2e?style=for-the-badge&logo=wireshark&logoColor=9D4EDD)
+
 **Environment**
 
-![Linux](https://img.shields.io/badge/Linux-1a1a2e?style=for-the-badge&logo=linux&logoColor=9D4EDD)
 ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1a1a2e?style=for-the-badge&logo=archlinux&logoColor=9D4EDD)
-![MacOS](https://img.shields.io/badge/MacOS-1a1a2e?style=for-the-badge&logo=macos&logoColor=9D4EDD)
 ![Neovim](https://img.shields.io/badge/Neovim-1a1a2e?style=for-the-badge&logo=neovim&logoColor=9D4EDD)
 ![zsh](https://img.shields.io/badge/zsh-1a1a2e?style=for-the-badge&logo=zsh&logoColor=9D4EDD)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-1a1a2e?style=for-the-badge&logo=raspberrypi&logoColor=9D4EDD)
+![Linux](https://img.shields.io/badge/Linux-1a1a2e?style=for-the-badge&logo=linux&logoColor=9D4EDD)
 ![Homebrew](https://img.shields.io/badge/Homebrew-1a1a2e?style=for-the-badge&logo=homebrew&logoColor=9D4EDD)
+![Proxmox](https://img.shields.io/badge/Proxmox-1a1a2e?style=for-the-badge&logo=proxmox&logoColor=9D4EDD)
 
 
 ---
