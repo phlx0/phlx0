@@ -74,9 +74,9 @@
 
 **Security**
 
-![Nmap](https://img.shields.io/badge/nmap-1a1a2e?style=for-the-badge&logoColor=9D4EDD)
+![Nmap](https://img.shields.io/badge/nmap-1a1a2e?style=for-the-badge&logo=nmap&logoColor=9D4EDD)
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-1a1a2e?style=for-the-badge&logo=kalilinux&logoColor=9D4EDD)
-![Ghidra](https://img.shields.io/badge/ghidra-1a1a2e?style=for-the-badge&logoColor=9D4EDD)
+![Ghidra](https://img.shields.io/badge/ghidra-1a1a2e?style=for-the-badge&logo=ghidra&logoColor=9D4EDD)
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-1a1a2e?style=for-the-badge&logo=burpsuite&logoColor=9D4EDD)
 ![Metasploit](https://img.shields.io/badge/Metasploit-1a1a2e?style=for-the-badge&logo=metasploit&logoColor=9D4EDD)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1a1a2e?style=for-the-badge&logo=wireshark&logoColor=9D4EDD)
