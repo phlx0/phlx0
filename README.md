@@ -135,7 +135,7 @@
 &nbsp;&nbsp;
 ![Profile Views](https://komarev.com/ghpvc/?username=phlx0&color=6e40c9&style=flat-square&label=profile+views)
 &nbsp;&nbsp;
-[![Bitcoin](https://img.shields.io/badge/BTC-donate-F7931A?style=flat-square&logo=bitcoin&logoColor=white)](bitcoin:bc1qvu0rakpzhcx3vnzc39lg8lu9lapmv9u5sdjp5g)
+[![Bitcoin](https://img.shields.io/badge/BTC-donate-F7931A?style=flat-square&logo=bitcoin&logoColor=white)](https://mempool.space/address/bc1qvu0rakpzhcx3vnzc39lg8lu9lapmv9u5sdjp5g)
 
 </div>
 
