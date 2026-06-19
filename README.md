@@ -134,6 +134,7 @@
 [![LeetCode](https://img.shields.io/badge/LeetCode-phlx0-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/phlx0/)
 &nbsp;&nbsp;
 ![Profile Views](https://komarev.com/ghpvc/?username=phlx0&color=6e40c9&style=flat-square&label=profile+views)
+[![Bitcoin](https://img.shields.io/badge/Bitcoin-bc1qvu0rakpzhcx3vnzc39lg8lu9lapmv9u5sdjp5g-F7931A?style=for-the-badge&logo=bitcoin&logoColor=white)](bitcoin:bc1qvu0rakpzhcx3vnzc39lg8lu9lapmv9u5sdjp5g)
 
 </div>
 
