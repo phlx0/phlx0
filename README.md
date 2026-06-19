@@ -84,6 +84,8 @@
 **Environment**
 
 ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1a1a2e?style=for-the-badge&logo=archlinux&logoColor=9D4EDD)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-1a1a2e?style=for-the-badge&logo=ubuntu&logoColor=9D4EDD)
+![MacOS](https://img.shields.io/badge/MacOS-1a1a2e?style=for-the-badge&logo=macos&logoColor=9D4EDD)
 ![Neovim](https://img.shields.io/badge/Neovim-1a1a2e?style=for-the-badge&logo=neovim&logoColor=9D4EDD)
 ![zsh](https://img.shields.io/badge/zsh-1a1a2e?style=for-the-badge&logo=zsh&logoColor=9D4EDD)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-1a1a2e?style=for-the-badge&logo=raspberrypi&logoColor=9D4EDD)
